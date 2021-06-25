@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-image:url("images/images.png");
+}
+
+h2{
+    height: 32px;  /*預留的歌曲名稱顯示空間,否則會沒有空間顯示*/
+    font-size: medium;
+}
